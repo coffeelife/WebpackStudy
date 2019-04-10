@@ -2,7 +2,7 @@
 
 官网链接(中文文档)：https://www.webpackjs.com
 
-![5cac4aeae47e4](https://i.loli.net/2019/04/09/5cac4aeae47e4.png)![5cac4aeae47e4](https://i.loli.net/2019/04/09/5cac4aeae47e4.png)
+![5cac4aeae47e4](https://i.loli.net/2019/04/09/5cac4aeae47e4.png)
 
 ## 概念
 
