@@ -8,6 +8,7 @@ module.exports = {
   entry: "./src/js/index.jsx",
   output: {
     path: path.resolve(__dirname, "dist"),
+    publicPath: "/dist/",
     filename: "js/index.js"
   },
   module: {
@@ -75,8 +76,8 @@ module.exports = {
     }),
     new ExtractTextPlugin("css/main.css")
   ],
-  //optimization与entry/plugins同级
   optimization: {
+    //抽取公共的dm
     splitChunks: {
       cacheGroups: {
         commons: {
@@ -86,5 +87,6 @@ module.exports = {
         }
       }
     }
-  }
+  },
+  devServer: {}
 };
