@@ -2,6 +2,8 @@
 
 本分享学习借鉴webpack中文官网，官网链接(中文文档)：https://www.webpackjs.com
 
+此教程本人demo 地址(develop分支代码)：[https://github.com/coffeelife/WebpackStudy/tree/develop](https://github.com/coffeelife/WebpackStudy/tree/develop)
+
 ![5cac4aeae47e4](https://i.loli.net/2019/04/09/5cac4aeae47e4.png)
 
 ## 概念
@@ -1116,4 +1118,4 @@ output: {
   }
 ```
 
-
+此教程本人demo 地址(develop分支代码)：[https://github.com/coffeelife/WebpackStudy/tree/develop]
