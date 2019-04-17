@@ -4,6 +4,18 @@
 
 此教程本人demo 地址(develop分支代码)：[https://github.com/coffeelife/WebpackStudy/tree/develop](https://github.com/coffeelife/WebpackStudy/tree/develop)
 
+### 使用github Demo教程
+
+```
+git clone https://github.com/coffeelife/WebpackStudy.git
+cd WebpackStudy
+npm install
+webpack//安装了webpack的前提下
+webpack-dev-server//安装了webpack-dev-server的情况下，在浏览器localhost:8080/dist/index.html查看效果
+```
+
+
+
 ![5cac4aeae47e4](https://i.loli.net/2019/04/09/5cac4aeae47e4.png)
 
 ## 概念
