@@ -5,9 +5,7 @@
   "repository": "https://github.com/coffeelife/WebpackStudy.git",
   "author": "gm <524107963@qq.com>",
   "license": "MIT",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "dependencies": {
     "font-awesome": "^4.7.0",
     "react": "^16.8.6",
